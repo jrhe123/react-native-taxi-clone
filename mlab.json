@@ -1,0 +1,34 @@
+{
+    "firstName" : "Roy",
+    "lastName" : "Test",
+    "dob" : "06/03/1990",
+    "nationalID": "123455678",
+    "profilePic" : "http://mindsatwork.wpengine.com/wp-content/uploads/2015/04/online-training.jpg",
+    "rating" : 5,
+    "address" : {
+        "addressLine1": "90 william bartlett",
+        "addressLine2": "Markham",
+        "city": "Markham",
+        "state" : "ON",
+        "zipCode":"123456"
+    },
+    "vehicle":{
+        "bodyType":"Sedan",
+        "model":"Proton",
+        "plateNumber":"AW 7890",
+        "color" : "white"
+    }
+}
+
+
+{
+    "driverId": "59a3479f734d1d7ab9eab875",
+    "coordinate": {
+        "type": "Point",
+        "coordinates" : [
+            -122.406500,
+            37.785834
+        ]
+    },
+    "socketId": ""
+}
