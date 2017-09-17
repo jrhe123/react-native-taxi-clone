@@ -1,3 +1,8 @@
+demo page: 
+
+http://res.cloudinary.com/dqtdsrmtz/image/upload/v1505623976/Screen_Shot_2017-09-17_at_12.41.06_AM_jykdxg.png
+
+
 1. react-native init MyApp
 2. npm install --save-dev babel-preset-react-native@2.1.0
 3. react-native run-ios
